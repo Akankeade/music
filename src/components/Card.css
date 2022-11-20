@@ -1,0 +1,23 @@
+.card-content{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 70px;
+}
+
+.ac{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; 
+}
+
+.card-main{
+    display: flex;
+}
+
+.head-image img{
+    width: 70%;
+    margin-left: 57px;
+}
